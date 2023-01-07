@@ -1,0 +1,12 @@
+#ex_4{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2vh;
+    width: 15vw;
+}
+#ex_5{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2vh;
+    width: 15vw;
+}
